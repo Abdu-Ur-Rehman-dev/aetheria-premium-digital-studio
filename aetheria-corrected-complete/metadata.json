@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria - Ultra-Premium Digital Studio",
+  "description": "Award-worthy digital agency landing page with real-time 3D WebGL graphics, glassmorphism aesthetics, magnetic interactions, and cinematic motion design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
